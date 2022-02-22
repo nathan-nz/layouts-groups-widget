@@ -1,6 +1,7 @@
 import { iconNode } from 'discourse-common/lib/icon-library';
 import DiscourseURL from 'discourse/lib/url';
 import { createWidget } from 'discourse/widgets/widget';
+import DiscourseURL from 'discourse/lib/url';
 import { h } from 'virtual-dom';
 
 let layouts;
